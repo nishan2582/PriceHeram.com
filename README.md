@@ -147,9 +147,7 @@ Please follow [PEP8](https://www.python.org/dev/peps/pep-0008/) style guidelines
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
